@@ -5,7 +5,7 @@
 
 <pre><strong>Input:</strong> nums = [1,1,2]
 <strong>Output:</strong>
-[[1,1,2],
+ [[1,1,2],
  [1,2,1],
  [2,1,1]]
 </pre>
